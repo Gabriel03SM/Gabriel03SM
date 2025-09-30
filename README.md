@@ -11,8 +11,6 @@
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF26BE?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel03sm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
