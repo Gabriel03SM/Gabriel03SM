@@ -17,7 +17,7 @@
     margin: auto;
     color: #e6e6e6;
   ">
-## Hi, I'm Gabriel 🤖
+<h1>Hi, I'm Gabriel 🤖</h1>
 
 🖥️ System development student on Etec Sales Gomes </br>
 🧑‍💻 I create websites for everything </br>
