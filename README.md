@@ -19,7 +19,8 @@
   ">
 <h1>Hi, I'm Gabriel 🤖</h1>
 
-🖥️ System development student on Etec Sales Gomes </br>
+🖥️ System developer </br>
+🖥️ Coursing System alysis development on Fatec Tatuí </br>
 🧑‍💻 I create websites for everything </br>
 
 ## 🌐 Socials:
