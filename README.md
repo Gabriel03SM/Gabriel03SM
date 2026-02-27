@@ -17,10 +17,11 @@
     margin: auto;
     color: #e6e6e6;
   ">
-<h1>Hi, I'm Gabriel 🤖</h1>
+<h1>Hello, I'm Gabriel!</h1>
+<h3>I like web design</h3>
 
 🖥️ System developer </br>
-🖥️ Coursing System alysis development on Fatec Tatuí </br>
+🖥️ Coursing System analysis development on Fatec Tatuí </br>
 🧑‍💻 I create websites for everything </br>
 
 ## 🌐 Socials:
