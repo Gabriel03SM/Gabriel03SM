@@ -31,8 +31,7 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,django,mysql,sqlite,figma,xd,selenium,jest,java,react-native" /> </p>
 
 ## GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel03sm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel03sm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   </div>
 </div>
