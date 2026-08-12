@@ -25,32 +25,44 @@ Me chamo Gabriel Almeida de Freitas, tenho 18 anos e moro em Boituva-SP. Conclu√
 <img
     align="left"
     width="30px"
-    padding="10px"
+    style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img
     align="left"
     width="30px"
-    padding="10px"
+    style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
 />
 <img
     align="left"
     width="30px"
-    padding="10px"
+    style="padding-right:10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img
     align="left"
     width="30px"
-    padding="10px"
+    style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 <img
     align="left"
     width="30px"
-    padding="10px"
+    style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+    align="left"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<img
+    align="left"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
 />
 
 
