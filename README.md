@@ -1,7 +1,7 @@
 # 👨‍💻 Gabriel Almeida
 
 **`DESENVOLVEDOR DE SOFTWARE`**
-
+<img src="https://custom-icon-badges.demolab.com/badge/DESENVOLVEDOR DE SOFTWARE-676d70?style=for-the-badge&logo=SITE"/>
 
 Me chamo Gabriel Almeida de Freitas, tenho 18 anos e moro em Boituva-SP. Concluí o ensino médio na ETEC, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec. 
 
@@ -19,51 +19,64 @@ Me chamo Gabriel Almeida de Freitas, tenho 18 anos e moro em Boituva-SP. Conclu�
 </p>
 
 
-## Linguagens e Tecnologias
+## Linguagens de desenvolvimento
 
 
 <img
     align="left"
-    width="30px"
+    width="36px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img
     align="left"
-    width="30px"
+    width="36px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
 />
 <img
     align="left"
-    width="30px"
+    width="36px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+/>
+<img
+    align="left"
+    width="36px"
     style="padding-right:10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img
     align="left"
-    width="30px"
+    width="36px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
+/>
+<img
+    align="left"
+    width="36px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+    align="left"
+    width="36px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 <img
     align="left"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img
-    align="left"
-    width="30px"
+    width="36px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 <img
     align="left"
-    width="30px"
+    width="36px"
     style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+
 
 
 <br/>
@@ -72,19 +85,18 @@ Me chamo Gabriel Almeida de Freitas, tenho 18 anos e moro em Boituva-SP. Conclu�
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-stats-extended.vercel.app/api?username=gabriel03sm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    align="left"
+    alt="Tecnologias"
+    height="200"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabriel03sm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-
 </p>
