@@ -1,7 +1,7 @@
 # 👨‍💻 Gabriel Almeida
 
 **`DESENVOLVEDOR DE SOFTWARE`**
-<img src="https://custom-icon-badges.demolab.com/badge/DESENVOLVEDOR DE SOFTWARE-676d70?style=for-the-badge&logo=SITE"/>
+
 
 Me chamo Gabriel Almeida de Freitas, tenho 18 anos e moro em Boituva-SP. Concluí o ensino médio na ETEC, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec. 
 
