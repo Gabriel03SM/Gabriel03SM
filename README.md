@@ -19,7 +19,7 @@ Me chamo Gabriel Almeida de Freitas, tenho 18 anos e moro em Boituva-SP. Conclu�
 </p>
 
 
-## Linguagens de desenvolvimento
+## Linguagens e Ferramentas
 
 
 <img
@@ -82,7 +82,7 @@ Me chamo Gabriel Almeida de Freitas, tenho 18 anos e moro em Boituva-SP. Conclu�
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas Git
 
 <p>
   <img
